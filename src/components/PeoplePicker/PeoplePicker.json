@@ -15,7 +15,8 @@
     "PeoplePicker.html",
     "PeoplePicker.Compact.html",
     "PeoplePicker.Disconnected.html",
-    "PeoplePicker.FacePile.html"
+    "PeoplePicker.MembersList.html",
+    "PeoplePicker.Facepile.html"
   ],
   "branches": [
     {
